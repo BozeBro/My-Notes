@@ -11,4 +11,4 @@
 - 12:43 Created order for Citadel cooler and windbreaker
 - Nader is still struggling to get into OS.
 - 22:17 Rebuilding frontend for Chain Reaction website
-	- [ ] Figure out how to have animations in javascript Svelte (library please!) ⏫ 
+	- [-] Figure out how to have animations in javascript Svelte (library please!) Ire Will handle this for us ⏫

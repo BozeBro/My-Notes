@@ -2,7 +2,7 @@
 
 - 02:36 Trying out cool new plugins in Obsidian
 	- [ ] Figure out Dataview, Templater, Task Manager stuff 🔽
-	- [ ] 🔼 Recreate Chain Reaction Site Front End with React
+	- [-] 🔼 Recreate Chain Reaction Site Front End with React
 	- [ ] ⏫ Read more Source Code and figure out what is going on with it. Examples include: LLVM, BRAFT
 - 23:19 Did a bunch of leetcode today. 
 	- Talked with my cousins Goldy and Francis
