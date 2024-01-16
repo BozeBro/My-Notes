@@ -6,3 +6,5 @@
 	- Communication will be key in thriving. 
 		- I believe if I practice through teammates in OS, then I will get the return.
 		- Otherwise, I might as well kiss my slight chances goodbye.
+- [What does the default move constructor do?](https://stackoverflow.com/questions/18290523/is-a-default-move-constructor-equivalent-to-a-member-wise-move-constructor)
+	- 
