@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/January 16, 2024.md",
+                "file": "CMAKE Public Private Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/January 16, 2024.md",
+                "file": "CMAKE Public Private Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/January 16, 2024.md",
+                "file": "CMAKE Public Private Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/January 16, 2024.md"
+                "file": "CMAKE Public Private Interface.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "5d158905dfa8c923",
   "lastOpenFiles": [
+    "TODO LIST.md",
+    "Websocketpp.md",
+    "journal/January 16, 2024.md",
     "CMAKE Public Private Interface.md",
     "Monte Carlo Simulation.md",
-    "journal/January 16, 2024.md",
-    "Websocketpp.md",
     "Writing for the Professions",
     "Computer Security",
     "Operating Systems",
     "journal/January 15, 2024.md",
-    "TODO LIST.md",
     "journal/January 14, 2024.md",
     "journal/January 13, 2024.md",
     "Untitled.canvas",

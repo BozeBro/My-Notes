@@ -1,3 +1,7 @@
+# TL;DR 
+- Public if libraries included is used by header and source files
+- Private if library is only used by source files
+- Interface if library is only used in the header (think header-only impls)
 [Follow up read](https://kubasejdak.com/modern-cmake-is-like-inheritance)
 Cmake uses Public by default. 
 

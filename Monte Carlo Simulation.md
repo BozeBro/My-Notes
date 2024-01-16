@@ -8,7 +8,4 @@ Higher Variability => need more samples to improve confidence.
 (E.g. 100 coins land heads, low variance, high confidence
 52 heads/48 tails, higher variance, lower confidence)
 
-Monte Carlo Tree Search - 
-Selection: Choose a leaf based on UCB1 formula (some heurisitc/weighting formula)
-Then, simulate the game randomly,
-
+Mo
