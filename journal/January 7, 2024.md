@@ -1,0 +1,52 @@
+[[January 6, 2024]] | [[January 8, 2024]]
+
+- 00:18 Watching new Solo Leveling Anime
+- #Solo-leveling - Main Character is Sung Jin-woo, Sister is Jin-Ah
+	- Ranking system similar to One Piece
+		- E, D, C, B, A, S rank
+			- Power scales left to right
+		- He is the weakest character in the leveling world
+	- Dungeons are like little game modes
+		- Kill the Dungeon master and get rewards
+		- Failing to kill the boss in a certain time frame will allow monsters to go into the real world
+	- In the first episode (first few manga chapters)
+		- Easily defeat the minim dungeon and a secrete dungeon opens
+			- S-rank dungeon and kills many of the people there.
+			- By worshipping the player God, Jin-woo has a chance of redemption.
+			- He can do quests and level himself up.
+				- Not playing the quests result in a punishment and he must survive in order to get out of punishment.
+	- The chapters are organized very haphazardly
+	- It is a lot of fun to read rn
+- #Solo-leveling Monster Dungeon system 01:43
+	- Power system is White, Orange, Red 
+	- Money system based on your rank also like One Piece
+	- 01:45 A strength based character Jin-woo is
+	- False Hunter - Someone who can conceil their power, and purposely get a low ranking
+	- 12:00 There are many different S-rank hunters that I will probably need to learn about. #rank
+		- Sung Il-Hwang
+			- Fluent in Korean
+			- Wanted to kill Jin-woo because suspected of killing his older brother
+		- Choi Jong-In
+			- Guild Master of Hunters
+			- The Ultimate soldier
+			- Good Fire Magic
+		- Woo Chin-Chul
+			- Association Dog
+	- 12:28 Go Gun-Hee Chairman Association of Hunters
+	- 12:30 Top 5 guilds that control the world
+		- Hunters
+		- Fame
+		- White Tiger
+		- Reaper
+		- Knights
+	- 16:44 Jin-ho that that wants make a team with Jin-woo
+- #open-gym Ire's fun Transit app for the CMU gyms
+	- SQL --> Mongo
+		- DB --> DB
+		- Table -> collection
+		- Row --> Document (has occupancy at a timestamp)
+	- Hours are in MetaData
+	- Use the [Date object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+		- Strings passed are in ISO string format
+- #javascript default exports allows single value export or a fallback value for module
+	- fallback says if we try to export something that doesn't exist in the module, we will use that function value instead.
