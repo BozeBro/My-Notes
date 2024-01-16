@@ -13,11 +13,12 @@
 - [/] 🔼 See differences in CMAKE PRIVATE, PUBLIC, and INTERFACE. [Good Blog here](https://leimao.github.io/blog/CMake-Public-Private-Interface/) [[CMAKE Public Private Interface]]
 - [ ] Find a way to revert Ctrl-C to copy instead of create new task Windows specific
 - Benefits of header-only library
-	- You do not need to build the library or specify compiled library in teh build step. 
+	- You do not need to build the library or specify compiled library in the build step. 
 		- Compiled libraries tend to have to deal with different OS implementations and sets of optimizations like debugging, performance, prod, etc.
 - Disadvantages of header-only library
 	- Bigger object files since all calls will get a weak symbol associated with it. More work for compilers and linkers
 	- Longer compilation times, more includes are needed in the headers
 	- Tangled Compilation - change a key function in a file, and maybe you recompile the whole project
-		- in compiled targets, you change a src file and only need to recompile that source file
+		- in compiled targets, you change a src file *and* only need to recompile that source file
 	- Headers are usually interface based, but since impl in headers, it is like reading the source.
+- Note, C++ templates are required to be in the headers because the compiler must know all the objects that are template parameters in order to be compiled correctly. This is only known through the header/interface files.
