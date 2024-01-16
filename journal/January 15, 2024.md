@@ -7,4 +7,17 @@
 		- I believe if I practice through teammates in OS, then I will get the return.
 		- Otherwise, I might as well kiss my slight chances goodbye.
 - [What does the default move constructor do?](https://stackoverflow.com/questions/18290523/is-a-default-move-constructor-equivalent-to-a-member-wise-move-constructor)
-	- 
+- 22:24 Got Obsidian on my desktop and testing it out right now. It's pretty good
+- 22:25 Want to checkout the CMAKE differences between public, private, and interface because setting to private from public caused a lot of speedup gains
+- [ ] [See if iShell can sync files to iphone for us](https://dev.to/cookrdan/using-git-on-ios-1l1n)
+- [/] 🔼 See differences in CMAKE PRIVATE, PUBLIC, and INTERFACE. [Good Blog here](https://leimao.github.io/blog/CMake-Public-Private-Interface/) [[CMAKE Public Private Interface]]
+- [ ] Find a way to revert Ctrl-C to copy instead of create new task Windows specific
+- Benefits of header-only library
+	- You do not need to build the library or specify compiled library in teh build step. 
+		- Compiled libraries tend to have to deal with different OS implementations and sets of optimizations like debugging, performance, prod, etc.
+- Disadvantages of header-only library
+	- Bigger object files since all calls will get a weak symbol associated with it. More work for compilers and linkers
+	- Longer compilation times, more includes are needed in the headers
+	- Tangled Compilation - change a key function in a file, and maybe you recompile the whole project
+		- in compiled targets, you change a src file and only need to recompile that source file
+	- Headers are usually interface based, but since impl in headers, it is like reading the source.
