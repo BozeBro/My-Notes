@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/January 15, 2024.md",
+                "file": "journal/January 16, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/January 15, 2024.md",
+                "file": "journal/January 16, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/January 15, 2024.md",
+                "file": "journal/January 16, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/January 15, 2024.md"
+                "file": "journal/January 16, 2024.md"
               }
             }
           },
@@ -167,10 +167,11 @@
   },
   "active": "5d158905dfa8c923",
   "lastOpenFiles": [
+    "journal/January 15, 2024.md",
+    "journal/January 16, 2024.md",
     "CMAKE Public Private Interface.md",
     "Monte Carlo Simulation.md",
     "TODO LIST.md",
-    "journal/January 15, 2024.md",
     "My Notes",
     "Websocketpp.md",
     "journal/January 14, 2024.md",
@@ -196,7 +197,6 @@
     "MyFilename 4.md",
     "MyFilename 3.md",
     "MyFilename 1.md",
-    "MyFilename 2.md",
     "template",
     "journal"
   ]
