@@ -1,3 +1,3 @@
 [[January 15, 2024]] | [[January 17, 2024]]
 
-- 20:26 <% tp.file.cursor() %>
+- 20:26 
