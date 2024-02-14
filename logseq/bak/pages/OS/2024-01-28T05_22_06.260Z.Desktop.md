@@ -1,0 +1,22 @@
+- Race Conditions
+	- Two concurrent activities - two sequeuntial cause different answers
+	- Execution sequence is not controlled means either outcome is possible "randomly"
+- Top half wants to launch disk I/O requests
+	- if disk is idle, send it the request
+	- If disk is busy queue request for later
+- Interrupt handler action depends on queue status
+	- work in queue -> transmit next request to disk
+	- Queue empty -> let disk go idle
+- bad can happen if interrupt after after check if queue is full is true
+- Two approaches
+	- temporarily suspend/mask/defer device
+	- use lock-free data structure
+		- excercise for the reader
+- Avoid blocking all interrupts
+- avoid blocking for a long time
+- Timer Behavior
+	- count something like CPU cycles, bus cycles, microseconds,
+	- when hit a limit, signal an interrupt
+	- reload counter to initial value
+	- Why interrupt a good executation?
+		- avoid CPU hogs, counting the time

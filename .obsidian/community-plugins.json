@@ -1,9 +1,7 @@
 [
   "obsidian-excalidraw-plugin",
-  "calendar",
   "obsidian-outliner",
   "templater-obsidian",
-  "table-editor-obsidian",
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-git"
