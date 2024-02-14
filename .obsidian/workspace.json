@@ -11,7 +11,7 @@
             "id": "6d784c6df1b5b4ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "6d784c6df1b5b4ff",
   "lastOpenFiles": [
+    "whiteboards/65cd17d2-93bb-4c09-8c2d-e55665bc40b0.edn",
+    "helper.py",
     "journal/February 45, 2024.md",
     "journal/January 26, 2024.md",
     "logseq/bak/journal/January 26, 2024/2024-01-27T04_49_11.613Z.Desktop.md",
@@ -182,7 +184,6 @@
     "Excalidraw",
     "journal/January 9, 2024.md",
     "journal/January 8, 2024.md",
-    "journal/January 7, 2024.md",
     "template",
     "journal"
   ]
